@@ -1,3 +1,6 @@
+# Below is the data we'd like to decrypt using a remote padding oracle.  You will need to implement the code yourself to solve it.
+# I will upload the solution a week after the event.
+
 b64_data = "rDxVtvcl/fA6x33iBY8Bwo/1l7wEUT8SqRhi5WZFDVEz4KmsUkBXLXHH/CWCD5qg/LA1EIhVImmxBQDeMgZSo1w8IvVyUcq+SUh6jAerndo="
 b64_iv = "R40qxRE9vHKz18Oz1jaRjA=="
 
