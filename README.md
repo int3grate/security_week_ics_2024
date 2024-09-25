@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository contains resources and exercises for a talk titled "Fortifying Industrial Control Systems: A Deep Dive into Evaluating Cryptographic Implementations" given at the Security Week ICS Conference in 2024.
+This repository contains resources and exercises for a talk titled "*Fortifying Industrial Control Systems: A Deep Dive into Evaluating Cryptographic Implementations*" given at the Security Week ICS Conference in 2024.
 
 ## Exercises
 
