@@ -12,10 +12,10 @@ The following folders contain exercises with incomplete code you need to finish 
 
 ## Resources
 
--**length_extension_attack** : contains example code used to exploit length extension attack.
+- **length_extension_attack** : contains example code used to exploit length extension attack.
 
--**WinDBG_Cheat_Sheet.pdf** : my own cheat sheet for WinDBG.
+- **WinDBG_Cheat_Sheet.pdf** : my own cheat sheet for WinDBG.
 
--**aes_visualization** : encrypt pixel data using AES ECB mode.  Demonstrates the issues with using ECB mode.
+- **aes_visualization** : encrypt pixel data using AES ECB mode.  Demonstrates the issues with using ECB mode.
 
- -**ics_presentation_2024.pdf** : copy of presentation given at event.
+ - **ics_presentation_2024.pdf** : copy of presentation given at event.
