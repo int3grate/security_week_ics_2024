@@ -9,8 +9,7 @@ def call_decrypt(blocks):
     for i in range(1, len(blocks)):
         data += blocks[i]
     iv = blocks[0]
-    # replace with VPS server API call before event
-    return decrypt_oracle(base64.b64encode(data), base64.b64encode(iv))
+    # implement call to server here
   
 data = base64.b64decode(b64_data)
 data_len = len(data)
