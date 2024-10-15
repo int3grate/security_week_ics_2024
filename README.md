@@ -8,7 +8,7 @@ The following folders contain exercises with incomplete code you need to finish 
 
 - **cpa_attack** : contains traces and text-in data collected from a real device performing AES encryption.  Finish the script to recover the key.
 
-- **compression_oracle** / **padding_oracle** : contains the code for an example of a vulnerable function and the start of an attack script you can complete to try the attack yourself.
+- **compression_oracle** / **padding_oracle** : contains the code for an example of a vulnerable function and the start of an attack script you can complete to try the attack yourself against a live target (available for one week after conference).  Solutions and dockerfile for hosting the challenges yourself will be provided a week after conference.
 
 ## Resources
 
