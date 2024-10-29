@@ -1,3 +1,1 @@
-padding_oracle.py contains the reference implementation. You can try writing and running an attack against a target setup running this reference implementation on **boxofhorror.org** on port **4321**.  You can use padding_oracle_attack.py as a template to start writing your attack.
-
-I'll leave this running for a week after the conference and then post the solution and dockerfile so you can host this challenge yourself.
+padding_oracle.py contains the reference implementation. padding_oracle.py contains the reference implementation. You can setup a host to run the attack against buy building a docker container.  build_container.sh in docker_container folder will build the container, run_container.sh will run it.
